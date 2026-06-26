@@ -52,6 +52,7 @@ Projects
 Awards & Honors
 ======
 * Awards
+  * `Jun.2026`, 🏆[Outstanding Paper Award at the Korean Institute of Information Scientistis and Engineers](/images/KCC_최우수논문상.jpg), 2026 Korea Computer Congress (KCC2026) of the Korean Institute of Information Scientistis and Engineers (KIISE)
   * `Oct.2025`, 🥉[Excellence Prize from Chairperson of the IT Platform Safety Research Group](/images/AI를_활용한_취약점_발굴_시스템_공모전_상장_ver01.jpg), 2025 AI-Powered Vulnerability Discovery System Competition, <strong>(KRW 2,000,000)</strong>
   * `Sep.2025`, 🥈[Top Excellence Prize from President of Korea Food Research Institute (KFRI)](/images/한국식품연구원_상장1.jpg), 2025 Korea Food Research Institute Food Data Analysis and Utilization Competition (Data Analysis Sector), <strong>(KRW 500,000)</strong>
   * `Aug.2025`, 🏆[Outstanding Paper Award at the Korea Data Mining Society](/images/Best_Paper_Award_2025_Summer_KDMS.png), 2025 Summer Conference of the Korea Data Mining Society(KDMS)
