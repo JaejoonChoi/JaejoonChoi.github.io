@@ -29,7 +29,7 @@ Education
 Experiences
 ======
 * `Mar.2025 - Present`, M.S. Student, [AIMS Lab](https://sites.google.com/khu.ac.kr/aims/home?authuser=0), Department of Industrial and Management Systems Engineering, Kyung Hee University, Yongin, Korea
-* `Mar.2024 - Feb.2025`, Undergraduate Research Assistant Student, [HAIDS Lab](https://sites.google.com/view/ids-kit/home), Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
+* `Mar.2024 - Feb.2025`, Undergraduate Research Assistant Student, [HAIDS Lab]((https://kit-hdmi.github.io/)), Department of Industrial Engineering, Kumoh National Institute of Technology, Gumi, Korea
 * `Apr.2023 - Feb.2024`, Undergraduate Research Student, [Kumoh National Institute of Technology Industry-academic Cooperation Foundation](https://iacf.kumoh.ac.kr/iacf/index.do?sso=ok), Kumoh National Institute of Technology, Gumi, Korea
   
 <br/>
