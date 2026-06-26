@@ -61,6 +61,7 @@ Awards & Honors
   * `Oct.2023`, 🥈[Second Prize from University President's Award of Kumoh National Institute of Technology (KIT)](/images/금오공대_정책_공모전_우수.jpg), A Policy Idea For University Development, <strong>(KRW 500,000)</strong>
 
 * Honors
+  * `Dec.2025`, 2025 Korea Student Aid Foundation Master's Excellence Scholarship (One-time Grant), Korea Student Aid Foundation, <strong>(KRW 2,500,000)</strong>
   * `Aug.2024`, Academic Excellence Scholarship (Awarded to students of the Smart Factory Convergence major), Kumoh National Institute of Technology, <strong>(KRW 500,000)</strong>
   * `Aug.2024`, Activity Scholarship (K-WEGO), Kumoh National Institute of Technology, <strong>(KRW 568,000)</strong>
   * `Feb.2024`, Academic Excellence Scholarship (Awarded to students of the Smart Factory Convergence major), Kumoh National Institute of Technology, <strong>(KRW 500,000)</strong>
