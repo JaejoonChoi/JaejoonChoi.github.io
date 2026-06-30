@@ -7,7 +7,7 @@ excerpt: '`Keywords: Deep Learning, Mixed-type Defects Detection & Semantic Segm
 date: 2025-11-06
 venue: '대한산업공학회 추계학술대회'
 #paperurl: ''
-citation: '<strong>최재준</strong>, 김영훈*. 웨이퍼 빈 맵 분류를 위한 Feature-Wise Linear Modulation 기반 조건부 분할 모델. 대한산업공학회 추계학술대회 논문집, 2025, -.'
+citation: '<strong>최재준</strong>, 김영훈*. 웨이퍼 빈 맵 분류를 위한 Feature-Wise Linear Modulation 기반 조건부 분할 모델. 대한산업공학회 추계학술대회 논문집, 2025'
 ---
 
 # Abstract
