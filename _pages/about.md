@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Jaejoon Choi (Jaejun Choe)'s Pages!
+Welcome to Jaejoon Choi (Jaejun Choe)'s HomePage!
 -----
 
 <br/>
