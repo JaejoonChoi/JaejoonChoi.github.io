@@ -30,6 +30,23 @@ redirect_from:
 
 **Side Projects**
 ----
+**Side Project 11.** [LLM Textual Gradient Process Discovery Model](https://github.com/JaejoonChoi/Diagtextgrad_LLM-Process-Discovery)
+- `Role:` Individual
+- `Period:` Individual Term project conducted in the Process Mining Lecture at KyungHee University, 1st Semester 2026, 2026.03 ~ 2026.07
+- <details><summary><code>Contents:</code> (Click to expand)</summary>
+  <div markdown="1">
+
+  1. We designed DiagTextGrad, an iterative process discovery framework utilizing PM4Py and TextGrad to automate the entire loop from model discovery through diagnosis to revision, addressing the limitation of one-shot algorithm selection where the inductive baseline on our target log reached 0.9990 fitness but only 0.0825 precision — an overly permissive "flower" model that accepts almost any behavior.
+  1. We proposed a Diagnosis Agent that translates the four quality dimensions — fitness, precision, generalization, and simplicity — into natural-language assessments of flower-model and spaghetti-model risk, moving beyond fixed metric thresholds to reason about which weakness should be targeted next and at what structural cost.
+  1. We implemented an Improvement stage built on TextGrad and served by a locally hosted Gemma-4-31B-it endpoint, in which the LLM-generated proposal itself becomes the optimized parameter: a TextLoss critic and textual gradient descent backpropagate natural-language feedback over a two-level action space spanning miner hyperparameters (algorithm, noise/dependency/AND/loop thresholds) and directly-follows edge removals.
+  1. By integrating a Selection stage that enforces hard guardrails (fitness ≥ 0.80, precision ≥ 0.10, simplicity ≥ 0.50) and ranks feasible candidates by a composite score, together with edge-protection rules and a rule-based fallback for malformed or repeated proposals, we ensured that every accepted model remains structurally valid under a robust retry mechanism.
+  1. Through this approach, across 50 iterations on a real manufacturing event log (4,543 events, 225 cases, 55 activities), we improved precision 8-fold from 0.0825 to 0.6696 while preserving fitness at 0.9343 and slightly improving simplicity, demonstrating that LLMs deliver the most value in process mining not as autonomous model builders but as proposal engines embedded within a strict validation loop.
+
+  </div>
+  </details>
+
+<br/>
+
 **Side Project 10.** [CRM Message Generation System](https://github.com/jaejunchoe/2026-Amore-Pacific-AI-Innovation-Challenge)
 - `Role:` Team Member
 - `Period:` 2026-Amore-Pacific-AI-Innovation-Challenge, 2025.12 ~ 2026.01
