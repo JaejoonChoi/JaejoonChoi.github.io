@@ -131,7 +131,7 @@ html[data-theme="dark"] .archive summary em {
 
 **IDO Co., Ltd. — Dormitory Management Assistant, KHU Global Campus (주식회사 이도, 경희대학교 국제캠퍼스 제2기숙사)**
 - `Address:` Kyung Hee University Global Campus, 2nd Dormitory, Yongin, Gyeonggi-do
-- `Period:` 2025.02 ~ 2026.02
+- `Period:` 2025.02 ~ 2026.02, 2026.08 ~ 2027.02
 - `Role:` Dormitory Management Assistant (Administrative & Technical Operations)
 
 <details>
@@ -241,6 +241,21 @@ html[data-theme="dark"] .archive summary em {
 
 **Projects**
 ----
+
+<details>
+<summary><strong><code>2026–Present</code> Vision AI Music Education — real-time gesture-to-sound web/app service (startup, CTO)</strong></summary>
+<div markdown="1">
+
+- `Role:` Co-founder & CTO
+- `Period:` 2026.05 ~ Present
+- `Tech Stack:` Computer Vision, Real-time Gesture Recognition, Web/App
+- `Note:` Early-stage startup (pre-incorporation stage); company, product, and source code are not publicly disclosed.
+- `Contents:` <br/>
+1. Leading the technical architecture and Vision AI pipeline for a browser-based music-education service that maps real-time hand gestures to sound. <br/>
+2. Designed the product to run on standard tablet cameras with no additional hardware or installation. <br/>
+
+</div>
+</details>
 
 <details>
 <summary><strong><code>2025–2026</code> CGAFuzz — curriculum-guided adaptive fuzzing (AFL++)</strong> 🏆 <em>Excellence Prize</em> · 🏆 <em>Best Paper (KCC 2026)</em></summary>
