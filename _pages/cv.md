@@ -72,8 +72,8 @@ Awards & Honors
 
 Teaching Assistant
 ======
-* Humanitas College (2026-2 KHU Administrative Office)
-* Machine Learning (2026-1 KHU Industrial and Management Systems Engineering )
+* Administrative Office (2026-2 KHU Humanitas College)
+* Machine Learning (2026-1 KHU Industrial and Management Systems Engineering)
 * Quality Engineering (2026-1 KHU Industrial and Management Systems Engineering)
 
 <br/>
