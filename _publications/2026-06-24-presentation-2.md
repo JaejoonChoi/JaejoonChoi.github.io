@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2026-06-24-presentation-2
 excerpt: '`Keywords: JSON Fuzzing, CmpLog, Semantic-Aware Mutation, Byte-level Mutation, AFL++, Software Security` <br/> 🏆 Best Paper Award — Information Security & High-Reliability Computing at the Korean Institute of Information Scientistis and Engineers'
 date: 2026-06-24
-venue: '2026 한국컴퓨터종합학술대회'
+venue: '한국컴퓨터종합학술대회(KCC2026)'
 #paperurl: ''
-citation: '장현종, <strong>최재준</strong>, 김영훈*. JSON 퍼징에서 뮤테이터 구조에 따른 CmpLog의 차별적 효용 분석: Semantic-Aware 변이와 바이트 수준 변이의 비교. 2026 한국정보과학회 학술발표논문집 , 2026, In Press'
+citation: '장현종, <strong>최재준</strong>, 김영훈*. JSON 퍼징에서 뮤테이터 구조에 따른 CmpLog의 차별적 효용 분석: Semantic-Aware 변이와 바이트 수준 변이의 비교. 2026 한국정보과학회 학술발표논문집, 2026'
 ---
 
 # Abstract
