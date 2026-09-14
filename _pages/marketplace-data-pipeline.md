@@ -2,6 +2,7 @@
 layout: single
 title: "Marketplace Listing & Review Data Pipeline"
 permalink: /project/marketplace-data-pipeline/
+description: "Data collection pipeline using the Etsy Open API v3 for an academic study of marketplace listings and consumer reviews."
 author_profile: true
 sitemap: false
 ---
