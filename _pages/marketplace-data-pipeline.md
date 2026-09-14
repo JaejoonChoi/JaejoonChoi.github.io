@@ -52,5 +52,13 @@ forthcoming paper.
 
 ## Contact
 
-Hyunjong Jang — hyunjongjang@khu.ac.kr
-AIMS Lab, Kyung Hee University
+For questions about this project or its API usage, please contact:
+
+- **Name:** Hyunjong Jang (장현종)
+- **Role:** M.S. student, Department of Artificial Intelligence
+- **Affiliation:** [Artificial Intelligence & Management Science Lab (AIMS Lab)](https://sites.google.com/khu.ac.kr/aims/home),
+  Kyung Hee University, Yongin, Republic of Korea
+- **Email:** [hyunjongjang@khu.ac.kr](mailto:hyunjongjang@khu.ac.kr)
+- **Homepage:** [hyeonjongjang.github.io](https://hyeonjongjang.github.io/)
+- **GitHub:** [github.com/HyeonjongJang](https://github.com/HyeonjongJang)
+- **Google Scholar:** [profile](https://scholar.google.com/citations?user=5vb3DK0AAAAJ)
