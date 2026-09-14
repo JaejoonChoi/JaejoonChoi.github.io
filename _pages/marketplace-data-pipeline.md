@@ -6,12 +6,12 @@ author_profile: true
 sitemap: false
 ---
 
-<!--
+{% comment %}
   TEMPORARY PAGE — Etsy Open API application evidence.
   Self-contained: nothing else in the repo links here (no nav entry, no
   listing on /project/ or /portfolio/, excluded from sitemap.xml).
   To remove: delete this single file. Nothing else needs to change.
--->
+{% endcomment %}
 
 ## Overview
 
